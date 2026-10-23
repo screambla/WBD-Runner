@@ -1,0 +1,6 @@
+{
+  "name": "Surveillance Maze: Camera Patrol",
+  "description": "A 2D arcade maze game with hand-drawn characters, two-tone walls, collectible dots, and stealth camera surveillance radius detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
